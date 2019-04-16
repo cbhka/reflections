@@ -21,3 +21,6 @@ A: when adding new experimental feature, or when trying to change
 some old stuff and see what happenes. Branches would help by
 organizing changes with separate comits.
 
+Q5: How do the diagrams help you visualize the branch structure?
+A: by drawing a tree diagrams that represents that branch
+structure.
