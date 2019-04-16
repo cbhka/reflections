@@ -30,3 +30,7 @@ Why do we represent it in the diagram the way we do?
 A: the result is a combination between the two branches,
 because the 2 braches are being combained to one branch.
 
+Q7: What are the pros and cons of Git’s automatic merging
+vs. always doing merges manually?
+A: you save time by using Git's automatic merging
+
