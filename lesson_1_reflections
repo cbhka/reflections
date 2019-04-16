@@ -1,0 +1,49 @@
+Q1:How did viewing a diff between two versions of a file help you
+see the bug that wasd introduced?
+A: By showing me,what I have changed in the file, which in turn
+helped me figure out what i did wrong, or what was the mistake
+that i did.
+
+Q2:How could having easy access to the entire history of a file
+make you more effcient programmer in the long term?
+A: By saving time for me, for saving and checking old versions of
+a file manually, and also showing me the changes i did to the
+file, which i can check when i have a doubt that i did something
+wrong in the past.
+
+Q3: what do you think are the pros and cons of manually choosing
+when to create a commit, like you do in Git, vs having versions
+automatically saved, like Google Docs does?
+A: The cons of having to create a commit manually are:
+1- forgetting to commit changes often which could lead to not
+enough changes being commited
+2- Commting too many changes to the file that are unnecessary.
+The pros are:
+1- saving useful and important changes only
+2- having more flexibility to commit files any time wanted.
+3- not having unecessary commits.
+Q4: why do you think some version control systems, like Git, 
+allow saving multiple files in one commit, while others, like
+Google Docs, treat each file separately?
+A: Because different version control systems are built to save
+diffrent type of files, unlike Git, Google Docs tend to be used
+to save pdf,word,image,text..etc kind of files, which most of the
+time don't have sparate files for each project/file.
+In the other hand Git is used to save projects that have separate
+files, like Webpages,Apps..., so multi file saving is necessary.
+
+Q5: How can you use the commands git log and git diff to view
+the history of files?
+A: to use git log simply tipe git log and hit enter, then the
+commit history will be shown. To use git diff, type git diff (id
+of the first commit) (id of the second commit), then the 
+difference between the two commits will be shown.
+
+Q6: how might using version control make you more confident to
+make changes that coudld break something?
+A: By saving previous versions of the project which i can refer
+to in case of bug.
+
+Q7: Now that you have your workspace set up, what do you want to
+try using Git for?
+A: I will use Git to monitor my future projects
