@@ -1,0 +1,12 @@
+Q1: What happens when you initialize a repository? why do
+you need to do it?
+A: a file called .git will be added to the directory, that
+contains metadata about the repository. 
+I need to to it, so git creates a new repository that i 
+can use in the future to commit changes.
+
+Q2: How is the staging area different from the working directory
+and the repository? What value do you think it offers?
+A: the staging area is a conncetion between the working directory
+and the repository, if we want i file to be tracked we need to
+add it to the staging area. otherwise it wont be trakced.
