@@ -24,3 +24,9 @@ organizing changes with separate comits.
 Q5: How do the diagrams help you visualize the branch structure?
 A: by drawing a tree diagrams that represents that branch
 structure.
+
+Q6: What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+A: the result is a combination between the two branches,
+because the 2 braches are being combained to one branch.
+
