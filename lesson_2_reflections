@@ -10,3 +10,8 @@ and the repository? What value do you think it offers?
 A: the staging area is a conncetion between the working directory
 and the repository, if we want i file to be tracked we need to
 add it to the staging area. otherwise it wont be trakced.
+
+Q3: How can you use the staging area to make sure you have one
+commit per logical change?
+A: by commiting sparate files that each has a logical change.
+
