@@ -10,3 +10,13 @@ A:You might be experimenting a new feature in you local
 repository, and Don't want to pull the new changes in
 the remote repo.
 
+Q3: Describe the differences between forks, clones,
+and branches. When would you use one instead of another?
+A: Forking is the act of copying another repo from someone
+else in the hope of doing pull request of the changes later.
+clone is the act of creating a entair sparate copy of
+a repository, and not worrying about changing the cloned 
+repo.
+branched work on commits not on repositories, and are
+used to create sparate time line of changes on a commit.
+
